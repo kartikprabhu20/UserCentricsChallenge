@@ -76,6 +76,7 @@
     <Compile Include="Assets/Scripts/UnknownFramework.cs" />
     <Compile Include="Assets/Scripts/FacebookConnectFrameWork.cs" />
     <Compile Include="Assets/Scripts/test.cs" />
+    <Compile Include="Assets/Scripts/ILoadUsercentric.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

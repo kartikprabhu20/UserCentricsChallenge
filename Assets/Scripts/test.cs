@@ -5,11 +5,11 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
-    private Usercentrics t = null;
+    private test2 t = null;
 
     void Awake()
     {
-        t= Usercentrics.Instance; 
+        t= test2.Instance; 
     }
 
     // Start is called before the first frame update

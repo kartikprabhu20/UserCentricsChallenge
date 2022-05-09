@@ -543,6 +543,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45db2f1376a7347c4839329d372547f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SettingsID: gChmbFIdL
 --- !u!4 &1568629835
 Transform:
   m_ObjectHideFlags: 0
