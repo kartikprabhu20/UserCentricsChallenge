@@ -17,6 +17,8 @@ public class ConsentManager : MonoBehaviour
 
     void Awake()
     {
+        Debug.Log(TAG + " ConsentManager.Awake ");
+
         //DI
         usercentrics = Usercentrics.Instance;
         frameWorkFactory = FrameWorkFactory.Instance;

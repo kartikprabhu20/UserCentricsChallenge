@@ -28,7 +28,7 @@ public class SettingsManager : ConsentManager
     {
         getUserCentrics().Reset();
         //DontDestroyOnLoad(this.gameObject);
-        //SceneManager.LoadSceneAsync(0);
+        SceneManager.LoadSceneAsync(0);
     }
 
     public void enableSettingsPanel()

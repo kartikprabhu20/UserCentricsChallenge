@@ -140,7 +140,7 @@
 77-->[:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-68:68
 78            android:name="unity.build-id"
 78-->[:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-42
-79            android:value="5a086db9-faad-4772-96cd-8851ebb3ef05" />
+79            android:value="ae915933-ce70-4ae3-9d92-ebb3ac567104" />
 79-->[:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-65
 80
 81        <provider

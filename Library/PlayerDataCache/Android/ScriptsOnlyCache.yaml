@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - ConsentManager
+    - DontDestroy
     - Loading
     - SettingsManager
     - Unity.Usercentrics.Usercentrics
@@ -143,6 +144,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 19568}
     - Class: 114
       Script: {instanceID: 25180}
+    - Class: 114
+      Script: {instanceID: 122218}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -626,6 +629,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: test
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DontDestroy
   platform: 13
   scenePathNames:
   - Assets/Scenes/LoadingScene.unity
