@@ -3,6 +3,9 @@ using Unity.Usercentrics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/// <summary>
+/// Class to access business logic from settings panel.
+/// </summary>
 public class SettingsManager : ConsentManager
 {
     [SerializeField] GameObject settingPanel;

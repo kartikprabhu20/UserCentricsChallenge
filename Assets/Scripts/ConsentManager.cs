@@ -5,6 +5,9 @@ using Unity.Usercentrics;
 using System.Net.NetworkInformation;
 using System;
 
+/// <summary>
+/// Buffer class between views and Usercentrics apis.
+/// </summary>
 public class ConsentManager : MonoBehaviour
 {
     public const string TAG = "Usercentric Challenge: ";
