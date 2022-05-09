@@ -1,0 +1,2 @@
+com/DefaultCompany/UserCentricsChallenge/BuildConfig.java
+ com.DefaultCompany.UserCentricsChallenge.BuildConfig

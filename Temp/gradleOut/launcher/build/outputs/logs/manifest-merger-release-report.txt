@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:3:1-71:12
+MERGED from [:androidx.activity.activity-1.2.4:] /Users/apple/.gradle/caches/transforms-3/d4451ef177ee1c12a1ae293ad17fddad/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.activity.activity-ktx-1.2.4:] /Users/apple/.gradle/caches/transforms-3/fec25816f8f5f582ff8aca9d435d7091/transformed/androidx.activity.activity-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.annotation.annotation-experimental-1.0.0:] /Users/apple/.gradle/caches/transforms-3/7a81942052c9ce652a05cbabe1abe14b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-1.3.1:] /Users/apple/.gradle/caches/transforms-3/972808e915f0fe126bf192fd968120cb/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-resources-1.3.1:] /Users/apple/.gradle/caches/transforms-3/bc49b1fb0454d6bdcf2853260ae2b723/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] /Users/apple/.gradle/caches/transforms-3/6c2de68d69c650483da1cdcbd8764844/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/apple/.gradle/caches/transforms-3/ff06ebbcc1514c312cb1fa3c0c4154bf/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.3:] /Users/apple/.gradle/caches/transforms-3/92e9e494db04a4f0be639cd3101b32e3/transformed/androidx.constraintlayout.constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2f80658cd96320ea3dfdbbce2404f85a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.core.core-1.5.0:] /Users/apple/.gradle/caches/transforms-3/8fa157488d4ab325c0bdeb5c54208257/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.core.core-ktx-1.1.0:] /Users/apple/.gradle/caches/transforms-3/63f704930ed63f8e5985fb5e0ea09df1/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/apple/.gradle/caches/transforms-3/c211dcf54d742826833286dd6f3f55aa/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/apple/.gradle/caches/transforms-3/d11d276673786cbfb215ca5fc173d07d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/apple/.gradle/caches/transforms-3/677ac64fa0ef275bc9f146241ce60e80/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/apple/.gradle/caches/transforms-3/ac60592e5c7678c273b7ace6bdbe0d77/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.dynamicanimation.dynamicanimation-1.0.0:] /Users/apple/.gradle/caches/transforms-3/a2eac87fa6bf9f7d8bf61087914021d9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.3.6:] /Users/apple/.gradle/caches/transforms-3/16a4eb0fe0bc238715a1252171a9f48f/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b4adc69125a784e4fdd04398345104a1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/apple/.gradle/caches/transforms-3/2992af168c09d048568ff4ef93550e5d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-extensions-2.2.0:] /Users/apple/.gradle/caches/transforms-3/4709286e0edf6de641fc3112dee94987/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.2.0:] /Users/apple/.gradle/caches/transforms-3/931ad985f285adc08765c00812cfcb40/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.1:] /Users/apple/.gradle/caches/transforms-3/d804037617b467d9df82c47b97db44e2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.3.1:] /Users/apple/.gradle/caches/transforms-3/96529dcd50299ca000e02ef97a243dfc/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-ktx-2.3.1:] /Users/apple/.gradle/caches/transforms-3/55a79dce77f6a44fbcc41c095c63c76a/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-service-2.2.0:] /Users/apple/.gradle/caches/transforms-3/5276a52363297b1fe94fdf6075d39577/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.1:] /Users/apple/.gradle/caches/transforms-3/8c20813a00dee0c688a36e8f1fe3d719/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-ktx-2.3.1:] /Users/apple/.gradle/caches/transforms-3/0e0aa1b3ceba5e7a11a3f2dc9c2115c9/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1:] /Users/apple/.gradle/caches/transforms-3/69d3cd615cbabf21ca92a8a60ef5461e/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b30e44d1f60a2c03d1fcdda0d63ee1a7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b463cc6551be1cf33dc68c07e1a9e535/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] /Users/apple/.gradle/caches/transforms-3/3810e43368d755b26b37d983c8e2df52/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.recyclerview.recyclerview-1.2.0:] /Users/apple/.gradle/caches/transforms-3/8edfd2f23ba7b4f0fdfdab1cbbd22c15/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2c50981c06d35df5e0342edf7ecc10f8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.savedstate.savedstate-ktx-1.1.0:] /Users/apple/.gradle/caches/transforms-3/76e76bdbc4cd8bcf3c55069186292e03/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.tracing.tracing-1.0.0:] /Users/apple/.gradle/caches/transforms-3/751f05dfcd5f209c58a92ae10a445d82/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.transition.transition-1.2.0:] /Users/apple/.gradle/caches/transforms-3/c886b15652611faee00884011c33a41e/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/apple/.gradle/caches/transforms-3/70e34ec82c8a4346686b3f5c1b2fa145/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2d77f181eebcdf7e25d7f1abd8029ed9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/apple/.gradle/caches/transforms-3/7544d673a14fac64743c12c33a31c36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/apple/.gradle/caches/transforms-3/1a6f3628454c8a5496b0f344418d49b9/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.viewpager2.viewpager2-1.0.0:] /Users/apple/.gradle/caches/transforms-3/3b62d34b3f89e81a8ac90ded529536aa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.flexbox.flexbox-3.0.0:] /Users/apple/.gradle/caches/transforms-3/936c278b40e97728b26db61e2fcfa352/transformed/jetified-flexbox-3.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.material.material-1.4.0:] /Users/apple/.gradle/caches/transforms-3/a5a21ab6619fb415eaa09ad1da2e3c42/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.usercentrics.sdk.usercentrics-ui-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/df0439db98c6c878063bf254710c75f3/transformed/jetified-usercentrics-ui-unity-2.4.1/AndroidManifest.xml:2:1-14:12
+MERGED from [:com.usercentrics.sdk.usercentrics-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/99fe4659a911e7a2a0c56224971b54f0/transformed/jetified-usercentrics-unity-2.4.1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-120
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:121-167
+	android:versionCode
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:168-208
+supports-screens
+ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-116
+MERGED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-69:19
+MERGED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-69:19
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.3:] /Users/apple/.gradle/caches/transforms-3/92e9e494db04a4f0be639cd3101b32e3/transformed/androidx.constraintlayout.constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.3:] /Users/apple/.gradle/caches/transforms-3/92e9e494db04a4f0be639cd3101b32e3/transformed/androidx.constraintlayout.constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [:androidx.core.core-1.5.0:] /Users/apple/.gradle/caches/transforms-3/8fa157488d4ab325c0bdeb5c54208257/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.5.0:] /Users/apple/.gradle/caches/transforms-3/8fa157488d4ab325c0bdeb5c54208257/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.lifecycle.lifecycle-extensions-2.2.0:] /Users/apple/.gradle/caches/transforms-3/4709286e0edf6de641fc3112dee94987/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.lifecycle.lifecycle-extensions-2.2.0:] /Users/apple/.gradle/caches/transforms-3/4709286e0edf6de641fc3112dee94987/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:19:3-21:17
+MERGED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:19:3-21:17
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/apple/.gradle/caches/transforms-3/7544d673a14fac64743c12c33a31c36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/apple/.gradle/caches/transforms-3/7544d673a14fac64743c12c33a31c36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [:com.google.android.material.material-1.4.0:] /Users/apple/.gradle/caches/transforms-3/a5a21ab6619fb415eaa09ad1da2e3c42/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.material.material-1.4.0:] /Users/apple/.gradle/caches/transforms-3/a5a21ab6619fb415eaa09ad1da2e3c42/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+	android:extractNativeLibs
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.5.0:] /Users/apple/.gradle/caches/transforms-3/8fa157488d4ab325c0bdeb5c54208257/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-81
+	android:icon
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:82-113
+uses-sdk
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:androidx.activity.activity-1.2.4:] /Users/apple/.gradle/caches/transforms-3/d4451ef177ee1c12a1ae293ad17fddad/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.activity.activity-1.2.4:] /Users/apple/.gradle/caches/transforms-3/d4451ef177ee1c12a1ae293ad17fddad/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.activity.activity-ktx-1.2.4:] /Users/apple/.gradle/caches/transforms-3/fec25816f8f5f582ff8aca9d435d7091/transformed/androidx.activity.activity-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.activity.activity-ktx-1.2.4:] /Users/apple/.gradle/caches/transforms-3/fec25816f8f5f582ff8aca9d435d7091/transformed/androidx.activity.activity-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.annotation.annotation-experimental-1.0.0:] /Users/apple/.gradle/caches/transforms-3/7a81942052c9ce652a05cbabe1abe14b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.annotation.annotation-experimental-1.0.0:] /Users/apple/.gradle/caches/transforms-3/7a81942052c9ce652a05cbabe1abe14b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.3.1:] /Users/apple/.gradle/caches/transforms-3/972808e915f0fe126bf192fd968120cb/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.3.1:] /Users/apple/.gradle/caches/transforms-3/972808e915f0fe126bf192fd968120cb/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.3.1:] /Users/apple/.gradle/caches/transforms-3/bc49b1fb0454d6bdcf2853260ae2b723/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.3.1:] /Users/apple/.gradle/caches/transforms-3/bc49b1fb0454d6bdcf2853260ae2b723/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] /Users/apple/.gradle/caches/transforms-3/6c2de68d69c650483da1cdcbd8764844/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] /Users/apple/.gradle/caches/transforms-3/6c2de68d69c650483da1cdcbd8764844/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/apple/.gradle/caches/transforms-3/ff06ebbcc1514c312cb1fa3c0c4154bf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/apple/.gradle/caches/transforms-3/ff06ebbcc1514c312cb1fa3c0c4154bf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.3:] /Users/apple/.gradle/caches/transforms-3/92e9e494db04a4f0be639cd3101b32e3/transformed/androidx.constraintlayout.constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.3:] /Users/apple/.gradle/caches/transforms-3/92e9e494db04a4f0be639cd3101b32e3/transformed/androidx.constraintlayout.constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2f80658cd96320ea3dfdbbce2404f85a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2f80658cd96320ea3dfdbbce2404f85a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.5.0:] /Users/apple/.gradle/caches/transforms-3/8fa157488d4ab325c0bdeb5c54208257/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.5.0:] /Users/apple/.gradle/caches/transforms-3/8fa157488d4ab325c0bdeb5c54208257/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-ktx-1.1.0:] /Users/apple/.gradle/caches/transforms-3/63f704930ed63f8e5985fb5e0ea09df1/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.core.core-ktx-1.1.0:] /Users/apple/.gradle/caches/transforms-3/63f704930ed63f8e5985fb5e0ea09df1/transformed/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/apple/.gradle/caches/transforms-3/c211dcf54d742826833286dd6f3f55aa/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/apple/.gradle/caches/transforms-3/c211dcf54d742826833286dd6f3f55aa/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/apple/.gradle/caches/transforms-3/d11d276673786cbfb215ca5fc173d07d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/apple/.gradle/caches/transforms-3/d11d276673786cbfb215ca5fc173d07d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/apple/.gradle/caches/transforms-3/677ac64fa0ef275bc9f146241ce60e80/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/apple/.gradle/caches/transforms-3/677ac64fa0ef275bc9f146241ce60e80/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/apple/.gradle/caches/transforms-3/ac60592e5c7678c273b7ace6bdbe0d77/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/apple/.gradle/caches/transforms-3/ac60592e5c7678c273b7ace6bdbe0d77/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.dynamicanimation.dynamicanimation-1.0.0:] /Users/apple/.gradle/caches/transforms-3/a2eac87fa6bf9f7d8bf61087914021d9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.dynamicanimation.dynamicanimation-1.0.0:] /Users/apple/.gradle/caches/transforms-3/a2eac87fa6bf9f7d8bf61087914021d9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.3.6:] /Users/apple/.gradle/caches/transforms-3/16a4eb0fe0bc238715a1252171a9f48f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.3.6:] /Users/apple/.gradle/caches/transforms-3/16a4eb0fe0bc238715a1252171a9f48f/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b4adc69125a784e4fdd04398345104a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b4adc69125a784e4fdd04398345104a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/apple/.gradle/caches/transforms-3/2992af168c09d048568ff4ef93550e5d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/apple/.gradle/caches/transforms-3/2992af168c09d048568ff4ef93550e5d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-extensions-2.2.0:] /Users/apple/.gradle/caches/transforms-3/4709286e0edf6de641fc3112dee94987/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-extensions-2.2.0:] /Users/apple/.gradle/caches/transforms-3/4709286e0edf6de641fc3112dee94987/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.2.0:] /Users/apple/.gradle/caches/transforms-3/931ad985f285adc08765c00812cfcb40/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.2.0:] /Users/apple/.gradle/caches/transforms-3/931ad985f285adc08765c00812cfcb40/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.1:] /Users/apple/.gradle/caches/transforms-3/d804037617b467d9df82c47b97db44e2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.1:] /Users/apple/.gradle/caches/transforms-3/d804037617b467d9df82c47b97db44e2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.3.1:] /Users/apple/.gradle/caches/transforms-3/96529dcd50299ca000e02ef97a243dfc/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.3.1:] /Users/apple/.gradle/caches/transforms-3/96529dcd50299ca000e02ef97a243dfc/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-runtime-ktx-2.3.1:] /Users/apple/.gradle/caches/transforms-3/55a79dce77f6a44fbcc41c095c63c76a/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-runtime-ktx-2.3.1:] /Users/apple/.gradle/caches/transforms-3/55a79dce77f6a44fbcc41c095c63c76a/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-service-2.2.0:] /Users/apple/.gradle/caches/transforms-3/5276a52363297b1fe94fdf6075d39577/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-service-2.2.0:] /Users/apple/.gradle/caches/transforms-3/5276a52363297b1fe94fdf6075d39577/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.1:] /Users/apple/.gradle/caches/transforms-3/8c20813a00dee0c688a36e8f1fe3d719/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.1:] /Users/apple/.gradle/caches/transforms-3/8c20813a00dee0c688a36e8f1fe3d719/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-ktx-2.3.1:] /Users/apple/.gradle/caches/transforms-3/0e0aa1b3ceba5e7a11a3f2dc9c2115c9/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-ktx-2.3.1:] /Users/apple/.gradle/caches/transforms-3/0e0aa1b3ceba5e7a11a3f2dc9c2115c9/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1:] /Users/apple/.gradle/caches/transforms-3/69d3cd615cbabf21ca92a8a60ef5461e/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1:] /Users/apple/.gradle/caches/transforms-3/69d3cd615cbabf21ca92a8a60ef5461e/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b30e44d1f60a2c03d1fcdda0d63ee1a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b30e44d1f60a2c03d1fcdda0d63ee1a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b463cc6551be1cf33dc68c07e1a9e535/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/apple/.gradle/caches/transforms-3/b463cc6551be1cf33dc68c07e1a9e535/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/apple/.gradle/caches/transforms-3/3810e43368d755b26b37d983c8e2df52/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/apple/.gradle/caches/transforms-3/3810e43368d755b26b37d983c8e2df52/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.recyclerview.recyclerview-1.2.0:] /Users/apple/.gradle/caches/transforms-3/8edfd2f23ba7b4f0fdfdab1cbbd22c15/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.recyclerview.recyclerview-1.2.0:] /Users/apple/.gradle/caches/transforms-3/8edfd2f23ba7b4f0fdfdab1cbbd22c15/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2c50981c06d35df5e0342edf7ecc10f8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2c50981c06d35df5e0342edf7ecc10f8/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-ktx-1.1.0:] /Users/apple/.gradle/caches/transforms-3/76e76bdbc4cd8bcf3c55069186292e03/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-ktx-1.1.0:] /Users/apple/.gradle/caches/transforms-3/76e76bdbc4cd8bcf3c55069186292e03/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] /Users/apple/.gradle/caches/transforms-3/751f05dfcd5f209c58a92ae10a445d82/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] /Users/apple/.gradle/caches/transforms-3/751f05dfcd5f209c58a92ae10a445d82/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.transition.transition-1.2.0:] /Users/apple/.gradle/caches/transforms-3/c886b15652611faee00884011c33a41e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.transition.transition-1.2.0:] /Users/apple/.gradle/caches/transforms-3/c886b15652611faee00884011c33a41e/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/apple/.gradle/caches/transforms-3/70e34ec82c8a4346686b3f5c1b2fa145/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/apple/.gradle/caches/transforms-3/70e34ec82c8a4346686b3f5c1b2fa145/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2d77f181eebcdf7e25d7f1abd8029ed9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/apple/.gradle/caches/transforms-3/2d77f181eebcdf7e25d7f1abd8029ed9/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/apple/.gradle/caches/transforms-3/7544d673a14fac64743c12c33a31c36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/apple/.gradle/caches/transforms-3/7544d673a14fac64743c12c33a31c36a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/apple/.gradle/caches/transforms-3/1a6f3628454c8a5496b0f344418d49b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/apple/.gradle/caches/transforms-3/1a6f3628454c8a5496b0f344418d49b9/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager2.viewpager2-1.0.0:] /Users/apple/.gradle/caches/transforms-3/3b62d34b3f89e81a8ac90ded529536aa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager2.viewpager2-1.0.0:] /Users/apple/.gradle/caches/transforms-3/3b62d34b3f89e81a8ac90ded529536aa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.flexbox.flexbox-3.0.0:] /Users/apple/.gradle/caches/transforms-3/936c278b40e97728b26db61e2fcfa352/transformed/jetified-flexbox-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.flexbox.flexbox-3.0.0:] /Users/apple/.gradle/caches/transforms-3/936c278b40e97728b26db61e2fcfa352/transformed/jetified-flexbox-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.material.material-1.4.0:] /Users/apple/.gradle/caches/transforms-3/a5a21ab6619fb415eaa09ad1da2e3c42/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.material.material-1.4.0:] /Users/apple/.gradle/caches/transforms-3/a5a21ab6619fb415eaa09ad1da2e3c42/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [:com.usercentrics.sdk.usercentrics-ui-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/df0439db98c6c878063bf254710c75f3/transformed/jetified-usercentrics-ui-unity-2.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.usercentrics.sdk.usercentrics-ui-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/df0439db98c6c878063bf254710c75f3/transformed/jetified-usercentrics-ui-unity-2.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [:com.usercentrics.sdk.usercentrics-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/99fe4659a911e7a2a0c56224971b54f0/transformed/jetified-usercentrics-unity-2.4.1/AndroidManifest.xml:5:5-7:41
+MERGED from [:com.usercentrics.sdk.usercentrics-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/99fe4659a911e7a2a0c56224971b54f0/transformed/jetified-usercentrics-unity-2.4.1/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-67
+MERGED from [:com.usercentrics.sdk.usercentrics-ui-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/df0439db98c6c878063bf254710c75f3/transformed/jetified-usercentrics-ui-unity-2.4.1/AndroidManifest.xml:11:5-67
+MERGED from [:com.usercentrics.sdk.usercentrics-ui-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/df0439db98c6c878063bf254710c75f3/transformed/jetified-usercentrics-ui-unity-2.4.1/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-79
+MERGED from [:com.usercentrics.sdk.usercentrics-ui-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/df0439db98c6c878063bf254710c75f3/transformed/jetified-usercentrics-ui-unity-2.4.1/AndroidManifest.xml:12:5-79
+MERGED from [:com.usercentrics.sdk.usercentrics-ui-unity-2.4.1:] /Users/apple/.gradle/caches/transforms-3/df0439db98c6c878063bf254710c75f3/transformed/jetified-usercentrics-ui-unity-2.4.1/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:22-76
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-52:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-48:40
+	android:value
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:9-56:33
+	android:value
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:9-59:36
+	android:value
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-47
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:9-62:37
+	android:value
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:9-65:50
+	android:value
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-68:68
+	android:value
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/apple/Workspace/Unity/UserCentricsChallenge/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-42
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:20:5-218
+	android:authorities
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:20:82-162
+	android:multiprocess
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:20:188-215
+	android:exported
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:20:163-187
+	android:name
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.2.0:] /Users/apple/.gradle/caches/transforms-3/c0d6a8baf05d9617ee758875bae765e1/transformed/androidx.lifecycle.lifecycle-process-2.2.0/AndroidManifest.xml:20:15-81

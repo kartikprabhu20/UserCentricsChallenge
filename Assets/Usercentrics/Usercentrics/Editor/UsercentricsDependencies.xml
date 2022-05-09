@@ -1,0 +1,12 @@
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.usercentrics.sdk:usercentrics-ui-unity:2.4.1" />
+    </androidPackages>
+
+    <iosPods>
+        <sources>
+            <source>https://bitbucket.org/usercentricscode/usercentrics-ios-specification.git</source>
+        </sources>
+        <iosPod name="UsercentricsUI" version="2.4.0-unity" />
+    </iosPods>
+</dependencies>
