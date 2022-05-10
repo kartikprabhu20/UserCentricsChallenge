@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class FacebookFrameWork : FrameWork
+public class FacebookFrameWork : Framework
 {
     public FacebookFrameWork(string templateId) : base(templateId)
     {

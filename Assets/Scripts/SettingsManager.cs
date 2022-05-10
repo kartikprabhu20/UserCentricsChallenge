@@ -1,4 +1,6 @@
 
+using System.Collections.Generic;
+using System.Net.NetworkInformation;
 using Unity.Usercentrics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -6,29 +8,35 @@ using UnityEngine.SceneManagement;
 /// <summary>
 /// Class to access business logic from settings panel.
 /// </summary>
-public class SettingsManager : ConsentManager
+public class SettingsManager : MonoBehaviour,IUsercentricBridgeUpdate
 {
     [SerializeField] GameObject settingPanel;
     [SerializeField] GameObject confirmationPanel;
+    [SerializeField] GameObject snackbar;
 
+    private ConsentManager consentManager = null;
+    private IFrameworkFactory frameWorkFactory = null;
+    private NetworkAvailabilityChangedEventHandler networkChangeHandler = null;
 
-    //private void Awake()
-    //{
-    //    base.InitAndShowConsent();
-    //}
-
-    // Start is called before the first frame update
-    void Start()
+    private void Awake()
     {
-        settingPanel.SetActive(false);
+        //DI
+        consentManager = ConsentManager.Instance;
+        frameWorkFactory = FrameworkFactory.Instance;
     }
 
+    // Start is called before the first frame update
+    public void Start()
+    {
+        settingPanel.SetActive(false);
+        consentManager.UsercentricInitialize(this);
+
+    }
 
     public void resetConsentToDefault()
     {
-        getUserCentrics().Reset();
-        //DontDestroyOnLoad(this.gameObject);
-        SceneManager.LoadSceneAsync(0);
+        consentManager.Reset();
+        SceneManager.LoadSceneAsync(0); 
     }
 
     public void enableSettingsPanel()
@@ -59,7 +67,59 @@ public class SettingsManager : ConsentManager
 
     public void openConsentPanel()
     {
-        ShowFirstLayer();
+        consentManager.ShowFirstLayer(this);
+    }
+
+    public void onComplete()
+    {
+        openConsentPanel();
+        networkChangeHandler = null; //If Initialize is successful no need to listen for network changes.
+    }
+
+    public void onError(string errorMessage)
+    {
+        if (Application.internetReachability == NetworkReachability.NotReachable)
+        {
+            //Unfortunately the below sample does not work for android device, but similar listner can be observed for onConnectiviryAvailable.
+            networkChangeHandler += new NetworkAvailabilityChangedEventHandler(AvailabilityChanged);
+            snackbar.SetActive(true);
+            Invoke("disableSnackbar", 3f);
+        }
+    }
+
+    private void disableSnackbar()
+    {
+        snackbar.SetActive(false);
+
+    }
+
+    private void AvailabilityChanged(object sender, NetworkAvailabilityEventArgs e)
+    {
+        if (e.IsAvailable)
+        {
+            Debug.Log("Internet connected ");
+            consentManager.UsercentricInitialize(this);
+        }
+        else
+        {
+            Debug.Log("Internet disconnected ");
+
+        }
+    }
+
+    public void onServiceUpdate(List<UsercentricsServiceConsent> consents)
+    {
+
+        foreach (var serviceConsent in consents)
+        {
+            IFramework framework = frameWorkFactory.GetFrameWork(serviceConsent.templateId);
+
+            //Example to execute framework related work.
+            //framework.enableFrameWork(serviceConsent.status);
+            //framework.init();
+            //framework.process();
+        }
+
     }
 
 }

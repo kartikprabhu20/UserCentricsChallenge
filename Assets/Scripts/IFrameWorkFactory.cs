@@ -1,4 +1,4 @@
-﻿internal interface IFrameWorkFactory
+﻿internal interface IFrameworkFactory
 {
-    public IFrameWork GetFrameWork(string templateID);
+    public IFramework GetFrameWork(string templateID);
 }

@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public abstract class FrameWork : IFrameWork
+public abstract class Framework : IFramework
 {
     string templateId;
 
-    protected FrameWork(string templateId)
+    protected Framework(string templateId)
     {
         this.templateId = templateId;
     }

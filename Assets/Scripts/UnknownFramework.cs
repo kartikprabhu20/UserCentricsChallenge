@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-public class UnknownFramework : FrameWork
+public class UnknownFramework : Framework
 {
     public UnknownFramework(string templateId) : base(templateId)
     {

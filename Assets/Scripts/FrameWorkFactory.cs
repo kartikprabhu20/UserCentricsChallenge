@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class FrameWorkFactory : Singleton<FrameWorkFactory>, IFrameWorkFactory
+public class FrameworkFactory : Singleton<FrameworkFactory>, IFrameworkFactory
 {
-    public IFrameWork GetFrameWork(string templateID)
+    public IFramework GetFrameWork(string templateID)
     {
         switch (templateID)
         {
