@@ -28,7 +28,7 @@ public class ConsentManager : Singleton<ConsentManager>
             usercentrics.Initialize((usercentricsReadyStatus) =>
             {
                 //Debug.Log(TAG + " Initialize " + usercentricsReadyStatus.shouldCollectConsent.ToString());
-                usercentricInitBridge.onComplete();
+                  usercentricInitBridge.onComplete();
             },
             (errorMessage) => {
                 //Debug.Log(TAG + errorMessage);
@@ -65,4 +65,18 @@ public class ConsentManager : Singleton<ConsentManager>
 
         }
     }
+
+    public void SubscribeOnConsentChange(IUsercentricBridgeUpdate userCentricUpdate)
+    {
+
+        Debug.Log("SubscribeOnConsentChange");
+        usercentrics.SubscribeOnConsentUpdated((usercentricsUpdatedConsentEvent) =>
+        {
+            //Service can be updated here, or it can be updated immediately after user interaction with firstlayer 
+            //userCentricUpdate.onServiceUpdate(usercentricsUpdatedConsentEvent.consents);
+
+        }
+        );
+    }
+
 }

@@ -9,7 +9,8 @@ public class FacebookFrameWork : Framework
    
     public override void enableFrameWork(bool enable)
     {
-        //Facebook.enable = enable;
+        Debug.Log("enableFrameWork: FacebookFrameWork");
+
     }
 
     public override void init()

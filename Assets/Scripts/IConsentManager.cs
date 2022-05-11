@@ -10,5 +10,4 @@ public interface IUsercentricBridge
 public interface IUsercentricBridgeUpdate : IUsercentricBridge
 {
     void onServiceUpdate(List<UsercentricsServiceConsent> consents);
-
 }

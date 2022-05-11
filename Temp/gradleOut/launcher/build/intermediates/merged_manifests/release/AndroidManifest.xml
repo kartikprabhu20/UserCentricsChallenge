@@ -76,7 +76,7 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="399757f2-2162-481b-bf00-750fdd434f0c" />
+            android:value="0e207b29-28a4-4960-9f75-95b36513aadd" />
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"

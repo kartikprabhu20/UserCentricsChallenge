@@ -72,6 +72,7 @@ public class SettingsManager : MonoBehaviour,IUsercentricBridgeUpdate
 
     public void onComplete()
     {
+        consentManager.SubscribeOnConsentChange(this);
         openConsentPanel();
         networkChangeHandler = null; //If Initialize is successful no need to listen for network changes.
     }
@@ -83,7 +84,7 @@ public class SettingsManager : MonoBehaviour,IUsercentricBridgeUpdate
             //Unfortunately the below sample does not work for android device, but similar listner can be observed for onConnectiviryAvailable.
             networkChangeHandler += new NetworkAvailabilityChangedEventHandler(AvailabilityChanged);
             snackbar.SetActive(true);
-            Invoke("disableSnackbar", 3f);
+            Invoke("disableSnackbar", 3f);// Show snackbar for 3 seconds
         }
     }
 
@@ -112,10 +113,12 @@ public class SettingsManager : MonoBehaviour,IUsercentricBridgeUpdate
 
         foreach (var serviceConsent in consents)
         {
+            Debug.Log("onServiceUpdate: "+serviceConsent.templateId);
+
             IFramework framework = frameWorkFactory.GetFrameWork(serviceConsent.templateId);
 
             //Example to execute framework related work.
-            //framework.enableFrameWork(serviceConsent.status);
+            framework.enableFrameWork(serviceConsent.status);
             //framework.init();
             //framework.process();
         }

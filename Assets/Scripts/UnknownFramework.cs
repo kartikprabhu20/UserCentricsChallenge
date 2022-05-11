@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using UnityEngine;
+
 
 public class UnknownFramework : Framework
 {
@@ -8,7 +9,7 @@ public class UnknownFramework : Framework
 
     public override void enableFrameWork(bool enable)
     {
-        throw new System.NotImplementedException();
+       Debug.Log("UnknownFramework enabled");
     }
 
     public override void init()
