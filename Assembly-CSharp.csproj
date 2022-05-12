@@ -54,31 +54,30 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/DontDestroy.cs" />
-    <Compile Include="Assets/Scripts/SettingsManager.cs" />
+    <Compile Include="Assets/Scripts/Managers/SettingsManager.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Demo/DemoScript.cs" />
-    <Compile Include="Assets/Scripts/IFrameWork.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/IFramework.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/Errors.cs" />
-    <Compile Include="Assets/Scripts/IFrameWorkFactory.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/IFrameworkFactory.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/UsercentricsIOS.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Usercentrics.cs" />
-    <Compile Include="Assets/Scripts/FacebookFrameWork.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/FacebookFrameWork.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/UCConstants.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/Data.cs" />
-    <Compile Include="Assets/Scripts/FacebookConnectFrameWork.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/FacebookConnectFrameWork.cs" />
     <Compile Include="Assets/Scripts/test.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/InspectorLink.cs" />
     <Compile Include="Assets/Scripts/SceneLoader.cs" />
-    <Compile Include="Assets/Scripts/FrameWorkFactory.cs" />
-    <Compile Include="Assets/Scripts/ConsentManager.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/FrameworkFactory.cs" />
+    <Compile Include="Assets/Scripts/Managers/ConsentManager.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/UsercentricsAndroid.cs" />
-    <Compile Include="Assets/Scripts/UnknownFramework.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/UnknownFramework.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/AppTrackingTransparency.cs" />
-    <Compile Include="Assets/Scripts/FrameWork.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/Framework.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/Singleton.cs" />
-    <Compile Include="Assets/Scripts/ILoadUsercentric.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/Internal/IUsercentrics.cs" />
     <Compile Include="Assets/Usercentrics/Usercentrics/Scripts/AppTrackingTransparency/AppTrackingTransparencyManager.cs" />
-    <Compile Include="Assets/Scripts/IConsentManager.cs" />
+    <Compile Include="Assets/Scripts/Frameworks/IConsentManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
