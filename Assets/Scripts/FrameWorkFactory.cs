@@ -1,5 +1,8 @@
 ﻿using System;
 
+/// <summary>
+/// A Class to map the templateid of consents to the corresponding frameworks on the device.
+/// </summary>
 public class FrameworkFactory : Singleton<FrameworkFactory>, IFrameworkFactory
 {
     public IFramework GetFrameWork(string templateID)

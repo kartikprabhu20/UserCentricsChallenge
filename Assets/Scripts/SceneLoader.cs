@@ -3,6 +3,9 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+/// <summary>
+/// Class to move between scenes
+/// </summary>
 public class SceneLoader : MonoBehaviour, IUsercentricBridge
 {
 
